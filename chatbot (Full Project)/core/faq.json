@@ -1,0 +1,18 @@
+[
+  {"input": "What is Webcog?", "response": "It's a Youtube Channel"},
+  {"input": "Webcog", "response": "It's a Youtube Channel and a Software Company"},
+  {"input": "Who is Wajahat", "response": "Wajahat is the Founder and CEO of the company"},
+  {"input": "Who is the CEO of this company", "response": "Wajahat is the Founder and CEO of the company"},
+  {"input": "What type of software does Webcog make?", "response": "Webcog develops custom software solutions and applications."},
+  {"input": "When was Webcog founded?", "response": "Webcog was founded in 2021."},
+  {"input": "Where is Webcog located?", "response": "Webcog is headquartered in New York City."},
+  {"input": "What is Webcog's mission?", "response": "Webcog's mission is to provide innovative and accessible digital solutions to businesses and individuals."},
+  {"input": "What services does Webcog offer?", "response": "Webcog offers software development, consulting, and digital marketing services."},
+  {"input": "Is Webcog hiring?", "response": "Yes, Webcog is always looking for talented software engineers and designers."},
+  {"input": "How can I contact Webcog?", "response": "You can reach Webcog via their official website or by emailing support@webcog.com."},
+  {"input": "Does Webcog have a mobile app?", "response": "Yes, Webcog has developed several mobile apps for different clients."},
+  {"input": "What programming languages does Webcog use?", "response": "Webcog uses a variety of programming languages, including Python, JavaScript, and Swift."},
+  {"input": "Does Webcog work internationally?", "response": "Yes, Webcog serves clients globally."},
+  {"input": "Is Webcog on social media?", "response": "Yes, Webcog has a presence on platforms like LinkedIn, Twitter, and YouTube."},
+  {"input": "Does Webcog offer internships?", "response": "Yes, Webcog provides internship opportunities for students and graduates."}
+]
