@@ -12,8 +12,10 @@ Please make sure to read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detaile
 ## Support Us
 
 If you find this project useful and would like to support its continued development, consider buying us a coffee! ☕ 
+[![Support me on Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-orange?style=for-the-badge&logo=patreon)](https://www.patreon.com/Webcog)
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=webcog&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/webcog)
+
+
 
 Your support helps us to keep improving and adding new features. Thank you for your generosity!
 
